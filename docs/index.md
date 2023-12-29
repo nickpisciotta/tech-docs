@@ -7,7 +7,6 @@ You can see also:
 
 - [A sub page](sub-page.md)
 - [Inline code examples](code/code-sample.md)
-- [Plugin & Extension examples](extensions.md) - Diagrams, emojis, visual formatting.
 
 ## Basic Markdown
 
